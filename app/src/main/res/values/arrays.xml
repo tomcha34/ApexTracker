@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- These are the options displayed in the gender drop-down Spinner -->
+    <string-array name="array_character_options">
+        <item>@string/character_bangalore</item>
+        <item>@string/character_bloodhound</item>
+        <item>@string/character_caustic</item>
+        <item>@string/character_crypto</item>
+        <item>@string/character_gilbraltar</item>
+        <item>@string/character_lifeline</item>
+        <item>@string/character_loba</item>
+        <item>@string/character_mirage</item>
+        <item>@string/character_octane</item>
+        <item>@string/character_pathfinder</item>
+        <item>@string/character_rampart</item>
+        <item>@string/character_revenant</item>
+        <item>@string/character_wattson</item>
+        <item>@string/character_wraith</item>
+    </string-array>
+</resources>

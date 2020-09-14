@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Name for the application [CHAR LIMIT=12] -->
+    <string name="app_name">Apex Tracker</string>
+
+    <!-- Label for overflow menu option that inserts fake game data into the app [CHAR LIMIT=20] -->
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+
+    <!-- Label for overflow menu option that deletes all game data in the app [CHAR LIMIT=20] -->
+    <string name="action_delete_all_entries">Delete All Games</string>
+
+    <!-- Title for the activity to add a new game [CHAR LIMIT=20] -->
+    <string name="editor_activity_title_new_game">Add a game</string>
+
+    <!-- Label for editor menu option to save game and leave editor [CHAR LIMIT=20] -->
+    <string name="action_save">Save</string>
+
+    <!-- Label for editor overflow menu option that deletes the current game [CHAR LIMIT=20] -->
+    <string name="action_delete">Delete</string>
+
+    <!-- Label for overview category of attributes in the editor [CHAR LIMIT=30] -->
+    <string name="category_overview">Game Overview</string>
+
+    <!-- Label for character information in the editor [CHAR LIMIT=30] -->
+    <string name="category_character">Character</string>
+
+    <!-- Label for kill information in the editor [CHAR LIMIT=30] -->
+    <string name="category_kills">Kills</string>
+
+    <!-- Text hint for name field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_game_name">Game type E.g. \"Duos\"</string>
+
+    <!-- Text hint for place field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_game_place">Place finished E.g. \"4th\"</string>
+
+    <!-- Text hint for kills field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_game_kills">Kills</string>
+
+
+    <!-- Label for dropdown menu option if the character is unknown [CHAR LIMIT=20] -->
+    <string name="character_unknown">Unknown</string>
+
+    <!-- Label for dropdown menu option for bangalore [CHAR LIMIT=20] -->
+    <string name="character_bangalore">Bangalore</string>
+
+    <!-- Label for dropdown menu option for bloodhound [CHAR LIMIT=20] -->
+    <string name="character_bloodhound">Bloodhound</string>
+
+    <!-- Label for dropdown menu option for caustic [CHAR LIMIT=20] -->
+    <string name="character_caustic">Caustic</string>
+
+    <!-- Label for dropdown menu option for crypto [CHAR LIMIT=20] -->
+    <string name="character_crypto">Crypto</string>
+
+    <!-- Label for dropdown menu option for gilbraltar [CHAR LIMIT=20] -->
+    <string name="character_gilbraltar">Gilbraltar</string>
+
+    <!-- Label for dropdown menu option for lifeline [CHAR LIMIT=20] -->
+    <string name="character_lifeline">Lifeline</string>
+
+    <!-- Label for dropdown menu option for loba [CHAR LIMIT=20] -->
+    <string name="character_loba">Loba</string>
+
+    <!-- Label for dropdown menu option for mirage [CHAR LIMIT=20] -->
+    <string name="character_mirage">Mirage</string>
+
+    <!-- Label for dropdown menu option for octane [CHAR LIMIT=20] -->
+    <string name="character_octane">Octane</string>
+
+    <!-- Label for dropdown menu option for pathfinder [CHAR LIMIT=20] -->
+    <string name="character_pathfinder">Pathfinder</string>
+
+    <!-- Label for dropdown menu option for rampart [CHAR LIMIT=20] -->
+    <string name="character_rampart">Rampart</string>
+
+    <!-- Label for dropdown menu option for revenant [CHAR LIMIT=20] -->
+    <string name="character_revenant">Revenant</string>
+
+    <!-- Label for dropdown menu option for wattson [CHAR LIMIT=20] -->
+    <string name="character_wattson">Wattson</string>
+
+    <!-- Label for dropdown menu option for wraith [CHAR LIMIT=20] -->
+    <string name="character_wraith">wraith</string>
+
+    <!-- Toast for failed game addition -->
+    <string name="editor_insert_game_failed">Game insert failed</string>
+
+    <!-- Toast for successful game addition -->
+    <string name="editor_insert_game_successful">Game added successfully!</string>
+
+    <!-- Title text for the empty view, which describes the empty loot bin image [CHAR LIMIT=50] -->
+    <string name="empty_view_title_text">It\'s a bit lonely here...</string>
+
+    <!-- Toast for failed game update -->
+    <string name="editor_update_game_failed">Error with updating game</string>
+
+    <!-- Toast for successful game update -->
+    <string name="editor_update_game_successful">Game updated</string>
+
+    <!-- Subtitle text for the empty view that prompts the user to add a game [CHAR LIMIT=50] -->
+    <string name="empty_view_subtitle_text">Get started by adding a game</string>
+
+    <!-- Dialog message when user is leaving editor but hasn't saved changes [CHAR LIMIT=NONE] -->
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+
+    <!-- Dialog button text for the option to discard a user's changes [CHAR LIMIT=20] -->
+    <string name="discard">Discard</string>
+
+    <!-- Dialog button text for the option to keep editing the current game [CHAR LIMIT=20] -->
+    <string name="keep_editing">Keep Editing</string>
+
+    <string name="editor_activity_title_edit_game">Edit Game</string>
+
+    <!-- Toast message in editor when current game was successfully deleted [CHAR LIMIT=NONE] -->
+    <string name="editor_delete_game_successful">Game deleted</string>
+
+    <!-- Toast message in editor when current game has failed to be deleted [CHAR LIMIT=NONE] -->
+    <string name="editor_delete_game_failed">Error with deleting game</string>
+
+    <!-- Dialog message to ask the user to confirm deleting the current game [CHAR LIMIT=NONE] -->
+    <string name="delete_dialog_msg">Delete this game?</string>
+
+    <!-- Dialog button text for the option to confirm deleting the current game [CHAR LIMIT=20] -->
+    <string name="delete">Delete</string>
+
+    <!-- Dialog button text for the option to cancel deletion of the current game [CHAR LIMIT=20] -->
+    <string name="cancel">Cancel</string>
+
+    <!-- Label for the games place if the place is unknown [CHAR LIMIT=20] -->
+    <string name="unknown_place">Unknown place</string>
+
+</resources>
